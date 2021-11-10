@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996797183440",
+    "project_id": "hesy-ra-1904c",
+    "storage_bucket": "hesy-ra-1904c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996797183440:android:5e94720d36a6ba4446f5d5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996797183440-b4anukqtpfkmv4na0j7r6iqrgpcihai6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy0a_tY_M2BENQ8m8z89VDuDPm7OHxPhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996797183440-b4anukqtpfkmv4na0j7r6iqrgpcihai6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
